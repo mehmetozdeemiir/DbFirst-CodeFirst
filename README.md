@@ -1,5 +1,3 @@
-# DbFirst-CodeFirst
-example
 Lab1 -> LİNQ methodları ve Aggregate methodları tanımı ve örneği 
 
 Lab2 -> Karışık LİNQ yöntemi örnekleri 

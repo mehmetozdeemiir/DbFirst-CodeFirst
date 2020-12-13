@@ -6,7 +6,7 @@ Lab3 -> CodeFirst kullanımı kütüphane oluşturma T-SQL
 
 Lab4 -> Telefon Rehberi otomasyonu "CodeFirst"
 
-Entity Framework, ORM (Object Relational Mapping) veya OOP (Object Oriented Programming) araştırmalarıma ulaşmak isterseniz linker aşağıda.
+Entity Framework, ORM (Object Relational Mapping) veya OOP (Object Oriented Programming) araştırmalarıma ulaşmak isterseniz linkler aşağıda.
 
 Entity Framework -->https://mehmetozdemir.gitbook.io/entity-framework-nedir/
 

@@ -1,5 +1,5 @@
 **Lab1 -> LİNQ methodları ve Aggregate methodları tanımı ve örneği**<br/>
-**Lab2 -> Karışık LİNQ yöntemi örnekleri**<br/>
+**Lab2 -> Karışık LİNQ method örnekleri**<br/>
 **Lab3 -> CodeFirst kullanımı kütüphane oluşturma T-SQL**<br/> 
 **Lab4 -> Telefon Rehberi otomasyonu "CodeFirst"**<br/>
 

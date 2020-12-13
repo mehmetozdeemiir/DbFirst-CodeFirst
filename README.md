@@ -7,4 +7,6 @@ Entity Framework, ORM (Object Relational Mapping) veya OOP (Object Oriented Prog
 [Entity Framework Gitbook](https://mehmetozdemir.gitbook.io/entity-framework-nedir/) <br/>
 [Object Oriented Programming Gitbook](https://mehmetozdemir.gitbook.io/oop/)
 
+![](http://cagataykiziltan.net/wp-content/uploads/2018/11/entity-framework-design-approaches-300x145.png)
+
 

@@ -1,4 +1,4 @@
-**Lab1 -> LİNQ methodları ve Aggregate methodları tanımı ve örneği**<br/>
+[*Lab1*](https://github.com/mehmetozdeemiir/DbFirst-CodeFirst/tree/master/Lab1_DatabaseFirst_Example )-> LİNQ methodları ve Aggregate methodları tanımı ve örneği**<br/>
 **Lab2 -> Karışık LİNQ method örnekleri**<br/>
 **Lab3 -> CodeFirst kullanımı kütüphane oluşturma T-SQL**<br/> 
 **Lab4 -> Telefon Rehberi otomasyonu "CodeFirst"**<br/>
